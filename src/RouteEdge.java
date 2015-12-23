@@ -1,4 +1,3 @@
-
 public class RouteEdge {
 	public StationVertex startStation;
 	public StationVertex endStation;
